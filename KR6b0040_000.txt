@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 修行本起經
+#+DATE: 2015-08-30 19:34:23.392515
+#+PROPERTY: JUAN 0
